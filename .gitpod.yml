@@ -1,2 +1,10 @@
 image:
   file: .gitpod.Dockerfile
+
+tasks:
+  - name: Usage Guide
+    command: |
+      echo "\n\n"
+      echo "You can create GitHub Actions Runner from here: "
+      echo "You can create one easily using with this command: source create-runner.sh <your_preffered_runner_name>"
+      echo "For example: source create-runner.sh siddhant-demo-runner-01"
