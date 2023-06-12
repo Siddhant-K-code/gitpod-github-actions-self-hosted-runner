@@ -1,4 +1,4 @@
-# GitHub Actions Self-Hosted Runner using Gitpod
+# Debugging GitHub Actions using Gitpod
 
 Testing out the GitHub Actions is a tough task, especially when you are dealing with Self-Hosted Runners for your enterprises. With this repository, you can set up and use a self-hosted runner within [Gitpod's Cloud Development Environment (CDE)](https://www.gitpod.io/cde).
 
